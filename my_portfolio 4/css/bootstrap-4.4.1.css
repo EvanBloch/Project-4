@@ -4334,6 +4334,7 @@ input[type="button"].btn-block {
     background-image: url(../images/noodle-nav.jpg);
     z-index: 10;
     width: 100%;
+    margin-top: -16px;
 }
 
 .navbar .container,
